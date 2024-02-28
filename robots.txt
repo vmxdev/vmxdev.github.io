@@ -1,0 +1,4 @@
+Sitemap: https://vmxdev.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: vmxdev.github.io
