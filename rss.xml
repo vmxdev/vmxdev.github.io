@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random notes</title><link>https://vmxdev.github.io/</link><description>Random notes</description><atom:link href="https://vmxdev.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:vm@xenoeye.com"&gt;vm&lt;/a&gt; </copyright><lastBuildDate>Wed, 28 Feb 2024 13:15:44 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs></channel></rss>
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random notes</title><link>https://vmxdev.github.io/</link><description>Random notes</description><atom:link href="https://vmxdev.github.io/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2024 &lt;a href="mailto:vm@xenoeye.com"&gt;vm&lt;/a&gt; </copyright><lastBuildDate>Wed, 28 Feb 2024 19:08:42 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>A few photos and videos from Donetsk Feb 2024</title><link>https://vmxdev.github.io/posts/a-few-photos-and-videos-from-donetsk-feb-2024/</link><dc:creator>vm</dc:creator><description>&lt;p&gt;Link to photos: &lt;a href="https://vmxdev.github.io/galleries/donetsk-2024.02/"&gt;galleries/donetsk-2024.02&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Videos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_171557.mp4"&gt;VID_20240225_171557.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_171722.mp4"&gt;VID_20240225_171722.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_171802.mp4"&gt;VID_20240225_171802.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_171935.mp4"&gt;VID_20240225_171935.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_172042.mp4"&gt;VID_20240225_172042.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_172157.mp4"&gt;VID_20240225_172157.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_172223.mp4"&gt;VID_20240225_172223.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_172257.mp4"&gt;VID_20240225_172257.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_172722.mp4"&gt;VID_20240225_172722.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_172839.mp4"&gt;VID_20240225_172839.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://vmxdev.github.io/VID_20240225_172935.mp4"&gt;VID_20240225_172935.mp4&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><guid>https://vmxdev.github.io/posts/a-few-photos-and-videos-from-donetsk-feb-2024/</guid><pubDate>Wed, 28 Feb 2024 18:59:57 GMT</pubDate></item></channel></rss>
